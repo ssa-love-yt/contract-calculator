@@ -1,0 +1,1 @@
+将本目录内全部文件上传到 GitHub Pages 仓库根目录，启用 Settings > Pages > Deploy from a branch > main / (root)。打开发布的 HTTPS 地址，用 iPhone Safari 分享 > 添加到主屏幕。首次联网访问成功并完成缓存后可尝试飞行模式离线使用。计算不连接交易所。
